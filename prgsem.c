@@ -2,7 +2,7 @@
  * File name: prgsem.c
  * Date:      2022/05/7 6:03 PM
  * Author:    Aleksandr Zelik
- * Tusk text: https://cw.fel.cvut.cz/wiki/courses/b3b36prg/semestral-project/start
+ * Task text: https://cw.fel.cvut.cz/wiki/courses/b3b36prg/semestral-project/start
 */
 
 #include "stdio.h"
